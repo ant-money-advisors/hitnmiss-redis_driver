@@ -1,5 +1,6 @@
 require "hitnmiss"
 require "redis"
+require "hitnmiss/redis_driver-version"
 
 module Hitnmiss
   class RedisDriver
