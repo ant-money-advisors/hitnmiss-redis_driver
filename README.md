@@ -35,7 +35,7 @@ You can use this driver by simply doing the following in your
 Register the driver with `Hitnmiss` in your application using the following.
 
 ```ruby
-Hitnmiss.register_driver(:redis_driver, Hitnmiss::RedisDriver.new("redis://your_redis_urle"))
+Hitnmiss.register_driver(:redis_driver, Hitnmiss::RedisDriver.new("redis://your_redis_url"))
 ```
 
 Then use the registered driver in your cache repository as follows.
