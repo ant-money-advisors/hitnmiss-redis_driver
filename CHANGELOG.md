@@ -9,6 +9,10 @@ versions of this gem so that you can set version constraints properly.
 
 #### [Unreleased][]
 
+#### [v1.1.0][] - 2016-07-02
+
+* Updated docs for official open source release
+
 #### [v1.0.0][] - 2016-04-12
 
 * Updated Hitnmiss dependency to 2.0
@@ -29,7 +33,8 @@ versions of this gem so that you can set version constraints properly.
 
 * Add initial Minimum Viable Product version of the library
 
-[Unreleased]: https://github.com/Acornsgrow/hitnmiss-redis_driver/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Acornsgrow/hitnmiss-redis_driver/compare/v1.1.0...HEAD
+[v1.1.0]: https://github.com/Acornsgrow/hitnmiss-redis_driver/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/Acornsgrow/hitnmiss-redis_driver/compare/v0.3.0...v1.0.0
 [v0.3.0]: https://github.com/Acornsgrow/hitnmiss-redis_driver/compare/v0.2.0...v0.3.0
 [v0.2.0]: https://github.com/Acornsgrow/hitnmiss-redis_driver/compare/v0.1.1...v0.2.0
